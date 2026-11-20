@@ -8,7 +8,7 @@ def main():
     df = pd.DataFrame(
         {
             "id": [1, 2, 3, 4, 5, 6],
-            "name": ["An", "Binh", "Chi", "Dung", "Hoa", "Khanh"],
+            "name": ["Quach Loan", "Quach Ngoc", "Cao Son", "Tuan Kiet", "Ngo Lam", "Duy Khanh"],
             "age": [19, 20, 21, 19, 22, 20],
             "score": [8.5, 4.0, 7.5, 9.0, 5.0, 3.5],
         }
